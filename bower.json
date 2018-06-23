@@ -8,6 +8,9 @@
   "overrides": {
     "jquery": {
       "main": "dist/jquery.min.js"
+    },
+    "bootstrap": {
+      "main": "dist/bootstrap.min.js"
     }
   }
 }
